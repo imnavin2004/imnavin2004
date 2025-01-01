@@ -4,7 +4,7 @@
 [one_dark_pro, codeSTACKr, aura_dark, github_dark, react, vision-friendly-dark, bear, monokai, catppuccin_latte]:#
 
 ## GitHub Stats
-
+<div align="center">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -16,7 +16,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=navin99x&show_icons=true&theme=ambient_gradient" />
 </picture>
-
+</div>
 
 ## Repo Card
 
